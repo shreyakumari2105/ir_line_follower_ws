@@ -1,0 +1,35 @@
+[1.630s] Invoking command in '/home/shreya/ir_line_follower_ws/build/ir_line_follower': PYTHONPATH=/home/shreya/ir_line_follower_ws/build/ir_line_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shreya/ir_line_follower_ws/install/ir_line_follower/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shreya/ir_line_follower_ws/build/ir_line_follower/build --no-deps symlink_data
+[2.084s] running develop
+[2.317s] running egg_info
+[2.317s] creating ir_line_follower.egg-info
+[2.349s] writing ir_line_follower.egg-info/PKG-INFO
+[2.349s] writing dependency_links to ir_line_follower.egg-info/dependency_links.txt
+[2.349s] writing entry points to ir_line_follower.egg-info/entry_points.txt
+[2.350s] writing requirements to ir_line_follower.egg-info/requires.txt
+[2.350s] writing top-level names to ir_line_follower.egg-info/top_level.txt
+[2.350s] writing manifest file 'ir_line_follower.egg-info/SOURCES.txt'
+[2.384s] reading manifest file 'ir_line_follower.egg-info/SOURCES.txt'
+[2.385s] writing manifest file 'ir_line_follower.egg-info/SOURCES.txt'
+[2.403s] running build_ext
+[2.404s] Creating /home/shreya/ir_line_follower_ws/install/ir_line_follower/lib/python3.12/site-packages/ir-line-follower.egg-link (link to .)
+[2.404s] Installing ir_controller_node script to /home/shreya/ir_line_follower_ws/install/ir_line_follower/lib/ir_line_follower
+[2.405s] Installing ir_sensor_node script to /home/shreya/ir_line_follower_ws/install/ir_line_follower/lib/ir_line_follower
+[2.405s] 
+[2.406s] Installed /home/shreya/ir_line_follower_ws/build/ir_line_follower
+[2.406s] running symlink_data
+[2.406s] creating /home/shreya/ir_line_follower_ws/install/ir_line_follower/share/ament_index
+[2.406s] creating /home/shreya/ir_line_follower_ws/install/ir_line_follower/share/ament_index/resource_index
+[2.406s] creating /home/shreya/ir_line_follower_ws/install/ir_line_follower/share/ament_index/resource_index/packages
+[2.407s] symbolically linking /home/shreya/ir_line_follower_ws/build/ir_line_follower/resource/ir_line_follower -> /home/shreya/ir_line_follower_ws/install/ir_line_follower/share/ament_index/resource_index/packages
+[2.407s] symbolically linking /home/shreya/ir_line_follower_ws/build/ir_line_follower/package.xml -> /home/shreya/ir_line_follower_ws/install/ir_line_follower/share/ir_line_follower
+[2.408s] creating /home/shreya/ir_line_follower_ws/install/ir_line_follower/share/ir_line_follower/launch
+[2.408s] symbolically linking /home/shreya/ir_line_follower_ws/build/ir_line_follower/launch/ir_line_follower.launch.py -> /home/shreya/ir_line_follower_ws/install/ir_line_follower/share/ir_line_follower/launch
+[2.409s] creating /home/shreya/ir_line_follower_ws/install/ir_line_follower/share/ir_line_follower/worlds
+[2.409s] symbolically linking /home/shreya/ir_line_follower_ws/build/ir_line_follower/worlds/ir_worlds.sdf -> /home/shreya/ir_line_follower_ws/install/ir_line_follower/share/ir_line_follower/worlds
+[2.410s] creating /home/shreya/ir_line_follower_ws/install/ir_line_follower/share/ir_line_follower/config
+[2.410s] symbolically linking /home/shreya/ir_line_follower_ws/build/ir_line_follower/config/bridge.yaml -> /home/shreya/ir_line_follower_ws/install/ir_line_follower/share/ir_line_follower/config
+[2.411s] creating /home/shreya/ir_line_follower_ws/install/ir_line_follower/share/ir_line_follower/models
+[2.411s] creating /home/shreya/ir_line_follower_ws/install/ir_line_follower/share/ir_line_follower/models/ir_robot
+[2.412s] symbolically linking /home/shreya/ir_line_follower_ws/build/ir_line_follower/models/ir_robot/model.config -> /home/shreya/ir_line_follower_ws/install/ir_line_follower/share/ir_line_follower/models/ir_robot
+[2.412s] symbolically linking /home/shreya/ir_line_follower_ws/build/ir_line_follower/models/ir_robot/model.sdf -> /home/shreya/ir_line_follower_ws/install/ir_line_follower/share/ir_line_follower/models/ir_robot
+[2.453s] Invoked command in '/home/shreya/ir_line_follower_ws/build/ir_line_follower' returned '0': PYTHONPATH=/home/shreya/ir_line_follower_ws/build/ir_line_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shreya/ir_line_follower_ws/install/ir_line_follower/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shreya/ir_line_follower_ws/build/ir_line_follower/build --no-deps symlink_data

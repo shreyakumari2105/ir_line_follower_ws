@@ -6,7 +6,7 @@ from launch_ros.actions import Node
 
 def generate_launch_description():
     pkg        = get_package_share_directory('ir_line_follower')
-    world      = os.path.join(pkg, 'worlds', 'ir_world.sdf')
+    world      = os.path.join(pkg, 'worlds', 'ir_worlds.sdf')
     models     = os.path.join(pkg, 'models')
     bridge_cfg = os.path.join(pkg, 'config', 'bridge.yaml')
 
